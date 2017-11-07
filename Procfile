@@ -1,1 +1,0 @@
-web: python austinsblog/manage.py runserver
